@@ -36,7 +36,7 @@ const Header = props => {
           <Link to="/">
             <img
               className="website-logo"
-              src="https://clipground.com/images/ecommerce-logo-png-11.png"
+              src="https://res.cloudinary.com/dsvgktmye/image/upload/v1780669000/ecommerce-logo-png-11_k5im1i.png"
               alt="website logo"
             />
           </Link>
@@ -58,7 +58,7 @@ const Header = props => {
           <Link to="/">
             <img
               className="website-logo"
-              src="https://clipground.com/images/ecommerce-logo-png-11.png"
+              src="https://res.cloudinary.com/dsvgktmye/image/upload/v1780669000/ecommerce-logo-png-11_k5im1i.png"
               alt="website logo"
             />
           </Link>
